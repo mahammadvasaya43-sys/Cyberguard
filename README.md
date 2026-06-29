@@ -1,3 +1,3 @@
-Phishing email link checker tool 2
-password strength checker tool 3
+Phishing email link checker tool :
+password strength checker tool :
 generate password tool
